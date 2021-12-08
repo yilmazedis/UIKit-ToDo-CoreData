@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Todo-CoreData
 //
-//  Created by Yilmaz Edis (employee ID: y84185251) on 7.12.2021.
+//  Created by Yilmaz Edis on 7.12.2021.
 //
 
 import UIKit
